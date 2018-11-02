@@ -1,0 +1,245 @@
+[
+  {
+    "id": "2000",
+    "unknown1": "1",
+    "unknown2": "16",
+    "unknown3": "0",
+    "unknown4": "2000",
+    "item": "12238",
+    "folkloreBook": "Coerthan mining folklore"
+  },
+  {
+    "id": "2001",
+    "unknown1": "1",
+    "unknown2": "16",
+    "unknown3": "0",
+    "unknown4": "2000",
+    "item": "12238",
+    "folkloreBook": "Coerthan mining folklore"
+  },
+  {
+    "id": "2002",
+    "unknown1": "2",
+    "unknown2": "17",
+    "unknown3": "0",
+    "unknown4": "2000",
+    "item": "12698",
+    "folkloreBook": "Coerthan botany folklore"
+  },
+  {
+    "id": "2003",
+    "unknown1": "2",
+    "unknown2": "17",
+    "unknown3": "0",
+    "unknown4": "2000",
+    "item": "12698",
+    "folkloreBook": "Coerthan botany folklore"
+  },
+  {
+    "id": "2004",
+    "unknown1": "1",
+    "unknown2": "16",
+    "unknown3": "1",
+    "unknown4": "2000",
+    "item": "12239",
+    "folkloreBook": "Dravanian mining folklore"
+  },
+  {
+    "id": "2005",
+    "unknown1": "1",
+    "unknown2": "16",
+    "unknown3": "1",
+    "unknown4": "2000",
+    "item": "12239",
+    "folkloreBook": "Dravanian mining folklore"
+  },
+  {
+    "id": "2006",
+    "unknown1": "2",
+    "unknown2": "17",
+    "unknown3": "1",
+    "unknown4": "2000",
+    "item": "12699",
+    "folkloreBook": "Dravanian botany folklore"
+  },
+  {
+    "id": "2007",
+    "unknown1": "2",
+    "unknown2": "17",
+    "unknown3": "1",
+    "unknown4": "2000",
+    "item": "12699",
+    "folkloreBook": "Dravanian botany folklore"
+  },
+  {
+    "id": "2008",
+    "unknown1": "1",
+    "unknown2": "16",
+    "unknown3": "2",
+    "unknown4": "2000",
+    "item": "12240",
+    "folkloreBook": "Abalathian mining folklore"
+  },
+  {
+    "id": "2009",
+    "unknown1": "1",
+    "unknown2": "16",
+    "unknown3": "2",
+    "unknown4": "2000",
+    "item": "12240",
+    "folkloreBook": "Abalathian mining folklore"
+  },
+  {
+    "id": "2010",
+    "unknown1": "2",
+    "unknown2": "17",
+    "unknown3": "2",
+    "unknown4": "2000",
+    "item": "12700",
+    "folkloreBook": "Abalathian botany folklore"
+  },
+  {
+    "id": "2011",
+    "unknown1": "2",
+    "unknown2": "17",
+    "unknown3": "2",
+    "unknown4": "2000",
+    "item": "12700",
+    "folkloreBook": "Abalathian botany folklore"
+  },
+  {
+    "id": "2012",
+    "unknown1": "1",
+    "unknown2": "16",
+    "unknown3": "3",
+    "unknown4": "2000",
+    "item": "17838",
+    "folkloreBook": "Gyr Abanian mining folklore"
+  },
+  {
+    "id": "2013",
+    "unknown1": "1",
+    "unknown2": "16",
+    "unknown3": "3",
+    "unknown4": "2000",
+    "item": "17838",
+    "folkloreBook": "Gyr Abanian mining folklore"
+  },
+  {
+    "id": "2014",
+    "unknown1": "2",
+    "unknown2": "17",
+    "unknown3": "3",
+    "unknown4": "2000",
+    "item": "17840",
+    "folkloreBook": "Gyr Abanian botany folklore"
+  },
+  {
+    "id": "2015",
+    "unknown1": "2",
+    "unknown2": "17",
+    "unknown3": "3",
+    "unknown4": "2000",
+    "item": "17840",
+    "folkloreBook": "Gyr Abanian botany folklore"
+  },
+  {
+    "id": "2016",
+    "unknown1": "1",
+    "unknown2": "16",
+    "unknown3": "4",
+    "unknown4": "2000",
+    "item": "17839",
+    "folkloreBook": "Othardian mining folklore"
+  },
+  {
+    "id": "2017",
+    "unknown1": "1",
+    "unknown2": "16",
+    "unknown3": "4",
+    "unknown4": "2000",
+    "item": "17839",
+    "folkloreBook": "Othardian mining folklore"
+  },
+  {
+    "id": "2018",
+    "unknown1": "2",
+    "unknown2": "17",
+    "unknown3": "4",
+    "unknown4": "2000",
+    "item": "17841",
+    "folkloreBook": "Othardian botany folklore"
+  },
+  {
+    "id": "2019",
+    "unknown1": "2",
+    "unknown2": "17",
+    "unknown3": "4",
+    "unknown4": "2000",
+    "item": "17841",
+    "folkloreBook": "Othardian botany folklore"
+  },
+  {
+    "id": "2500",
+    "unknown1": "3",
+    "unknown2": "18",
+    "unknown3": "0",
+    "unknown4": "0",
+    "item": "12701",
+    "folkloreBook": "Coerthan fishing folklore"
+  },
+  {
+    "id": "2501",
+    "unknown1": "3",
+    "unknown2": "18",
+    "unknown3": "1",
+    "unknown4": "0",
+    "item": "12702",
+    "folkloreBook": "Dravanian fishing folklore"
+  },
+  {
+    "id": "2502",
+    "unknown1": "3",
+    "unknown2": "18",
+    "unknown3": "2",
+    "unknown4": "0",
+    "item": "12703",
+    "folkloreBook": "Abalathian fishing folklore"
+  },
+  {
+    "id": "2503",
+    "unknown1": "3",
+    "unknown2": "18",
+    "unknown3": "3",
+    "unknown4": "0",
+    "item": "17842",
+    "folkloreBook": "Gyr Abanian fishing folklore"
+  },
+  {
+    "id": "2504",
+    "unknown1": "3",
+    "unknown2": "18",
+    "unknown3": "3",
+    "unknown4": "0",
+    "item": "17842",
+    "folkloreBook": "Gyr Abanian fishing folklore"
+  },
+  {
+    "id": "2505",
+    "unknown1": "3",
+    "unknown2": "18",
+    "unknown3": "4",
+    "unknown4": "0",
+    "item": "17843",
+    "folkloreBook": "Othardian fishing folklore"
+  },
+  {
+    "id": "2506",
+    "unknown1": "3",
+    "unknown2": "18",
+    "unknown3": "4",
+    "unknown4": "0",
+    "item": "17843",
+    "folkloreBook": "Othardian fishing folklore"
+  }
+]
