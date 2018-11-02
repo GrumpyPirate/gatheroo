@@ -1,0 +1,5294 @@
+[
+  {
+    "id": "0",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "1",
+    "item": "2",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "2",
+    "item": "3",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "3",
+    "item": "4",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "4",
+    "item": "5",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "5",
+    "item": "6",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "6",
+    "item": "7",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "7",
+    "item": "8",
+    "gatheringItemLevel": "26",
+    "isHidden": "False"
+  },
+  {
+    "id": "8",
+    "item": "9",
+    "gatheringItemLevel": "26",
+    "isHidden": "False"
+  },
+  {
+    "id": "9",
+    "item": "10",
+    "gatheringItemLevel": "26",
+    "isHidden": "False"
+  },
+  {
+    "id": "10",
+    "item": "11",
+    "gatheringItemLevel": "26",
+    "isHidden": "False"
+  },
+  {
+    "id": "11",
+    "item": "12",
+    "gatheringItemLevel": "26",
+    "isHidden": "False"
+  },
+  {
+    "id": "12",
+    "item": "13",
+    "gatheringItemLevel": "26",
+    "isHidden": "False"
+  },
+  {
+    "id": "13",
+    "item": "14",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "14",
+    "item": "15",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "15",
+    "item": "16",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "16",
+    "item": "17",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "17",
+    "item": "18",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "18",
+    "item": "19",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "19",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "20",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "21",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "22",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "23",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "24",
+    "item": "5599",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "25",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "26",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "27",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "28",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "29",
+    "item": "5814",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "30",
+    "item": "5815",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "31",
+    "item": "5816",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "32",
+    "item": "5817",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "33",
+    "item": "5818",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "34",
+    "item": "5819",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "35",
+    "item": "5820",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "36",
+    "item": "5139",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "37",
+    "item": "5138",
+    "gatheringItemLevel": "34",
+    "isHidden": "False"
+  },
+  {
+    "id": "38",
+    "item": "5524",
+    "gatheringItemLevel": "19",
+    "isHidden": "False"
+  },
+  {
+    "id": "39",
+    "item": "5143",
+    "gatheringItemLevel": "44",
+    "isHidden": "False"
+  },
+  {
+    "id": "40",
+    "item": "5439",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "41",
+    "item": "5134",
+    "gatheringItemLevel": "31",
+    "isHidden": "False"
+  },
+  {
+    "id": "42",
+    "item": "5118",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "43",
+    "item": "5135",
+    "gatheringItemLevel": "33",
+    "isHidden": "False"
+  },
+  {
+    "id": "44",
+    "item": "5128",
+    "gatheringItemLevel": "7",
+    "isHidden": "False"
+  },
+  {
+    "id": "45",
+    "item": "5168",
+    "gatheringItemLevel": "39",
+    "isHidden": "False"
+  },
+  {
+    "id": "46",
+    "item": "5141",
+    "gatheringItemLevel": "38",
+    "isHidden": "False"
+  },
+  {
+    "id": "47",
+    "item": "5144",
+    "gatheringItemLevel": "37",
+    "isHidden": "False"
+  },
+  {
+    "id": "48",
+    "item": "5131",
+    "gatheringItemLevel": "17",
+    "isHidden": "False"
+  },
+  {
+    "id": "49",
+    "item": "5491",
+    "gatheringItemLevel": "24",
+    "isHidden": "False"
+  },
+  {
+    "id": "50",
+    "item": "5145",
+    "gatheringItemLevel": "41",
+    "isHidden": "False"
+  },
+  {
+    "id": "51",
+    "item": "5129",
+    "gatheringItemLevel": "18",
+    "isHidden": "False"
+  },
+  {
+    "id": "52",
+    "item": "5142",
+    "gatheringItemLevel": "36",
+    "isHidden": "False"
+  },
+  {
+    "id": "53",
+    "item": "5263",
+    "gatheringItemLevel": "46",
+    "isHidden": "False"
+  },
+  {
+    "id": "54",
+    "item": "5525",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "55",
+    "item": "5132",
+    "gatheringItemLevel": "17",
+    "isHidden": "False"
+  },
+  {
+    "id": "56",
+    "item": "5137",
+    "gatheringItemLevel": "32",
+    "isHidden": "False"
+  },
+  {
+    "id": "57",
+    "item": "5136",
+    "gatheringItemLevel": "33",
+    "isHidden": "False"
+  },
+  {
+    "id": "58",
+    "item": "5130",
+    "gatheringItemLevel": "16",
+    "isHidden": "False"
+  },
+  {
+    "id": "59",
+    "item": "6199",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "60",
+    "item": "5121",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "61",
+    "item": "5133",
+    "gatheringItemLevel": "7",
+    "isHidden": "False"
+  },
+  {
+    "id": "62",
+    "item": "5140",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "63",
+    "item": "5110",
+    "gatheringItemLevel": "9",
+    "isHidden": "False"
+  },
+  {
+    "id": "64",
+    "item": "5458",
+    "gatheringItemLevel": "49",
+    "isHidden": "False"
+  },
+  {
+    "id": "65",
+    "item": "5116",
+    "gatheringItemLevel": "47",
+    "isHidden": "False"
+  },
+  {
+    "id": "66",
+    "item": "5113",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "67",
+    "item": "5433",
+    "gatheringItemLevel": "8",
+    "isHidden": "False"
+  },
+  {
+    "id": "68",
+    "item": "5124",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "69",
+    "item": "5432",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "70",
+    "item": "5465",
+    "gatheringItemLevel": "19",
+    "isHidden": "False"
+  },
+  {
+    "id": "71",
+    "item": "5107",
+    "gatheringItemLevel": "6",
+    "isHidden": "False"
+  },
+  {
+    "id": "72",
+    "item": "5115",
+    "gatheringItemLevel": "43",
+    "isHidden": "False"
+  },
+  {
+    "id": "73",
+    "item": "5488",
+    "gatheringItemLevel": "3",
+    "isHidden": "False"
+  },
+  {
+    "id": "74",
+    "item": "5111",
+    "gatheringItemLevel": "14",
+    "isHidden": "False"
+  },
+  {
+    "id": "75",
+    "item": "5106",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "76",
+    "item": "5125",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "77",
+    "item": "5114",
+    "gatheringItemLevel": "34",
+    "isHidden": "False"
+  },
+  {
+    "id": "78",
+    "item": "5272",
+    "gatheringItemLevel": "42",
+    "isHidden": "False"
+  },
+  {
+    "id": "79",
+    "item": "5273",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "80",
+    "item": "5270",
+    "gatheringItemLevel": "22",
+    "isHidden": "False"
+  },
+  {
+    "id": "81",
+    "item": "5526",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "82",
+    "item": "5269",
+    "gatheringItemLevel": "14",
+    "isHidden": "False"
+  },
+  {
+    "id": "83",
+    "item": "5231",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "84",
+    "item": "5528",
+    "gatheringItemLevel": "26",
+    "isHidden": "False"
+  },
+  {
+    "id": "85",
+    "item": "6152",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "86",
+    "item": "5152",
+    "gatheringItemLevel": "23",
+    "isHidden": "False"
+  },
+  {
+    "id": "87",
+    "item": "5518",
+    "gatheringItemLevel": "12",
+    "isHidden": "False"
+  },
+  {
+    "id": "88",
+    "item": "5523",
+    "gatheringItemLevel": "27",
+    "isHidden": "False"
+  },
+  {
+    "id": "89",
+    "item": "5228",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "90",
+    "item": "5157",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "91",
+    "item": "5158",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "92",
+    "item": "5519",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "93",
+    "item": "5229",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "94",
+    "item": "5155",
+    "gatheringItemLevel": "21",
+    "isHidden": "False"
+  },
+  {
+    "id": "95",
+    "item": "5268",
+    "gatheringItemLevel": "11",
+    "isHidden": "False"
+  },
+  {
+    "id": "96",
+    "item": "5153",
+    "gatheringItemLevel": "23",
+    "isHidden": "False"
+  },
+  {
+    "id": "97",
+    "item": "5154",
+    "gatheringItemLevel": "24",
+    "isHidden": "False"
+  },
+  {
+    "id": "98",
+    "item": "5156",
+    "gatheringItemLevel": "24",
+    "isHidden": "False"
+  },
+  {
+    "id": "99",
+    "item": "5527",
+    "gatheringItemLevel": "29",
+    "isHidden": "False"
+  },
+  {
+    "id": "100",
+    "item": "5271",
+    "gatheringItemLevel": "33",
+    "isHidden": "False"
+  },
+  {
+    "id": "101",
+    "item": "4842",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "102",
+    "item": "4807",
+    "gatheringItemLevel": "36",
+    "isHidden": "False"
+  },
+  {
+    "id": "103",
+    "item": "5402",
+    "gatheringItemLevel": "9",
+    "isHidden": "False"
+  },
+  {
+    "id": "104",
+    "item": "5383",
+    "gatheringItemLevel": "8",
+    "isHidden": "False"
+  },
+  {
+    "id": "105",
+    "item": "5050",
+    "gatheringItemLevel": "2",
+    "isHidden": "False"
+  },
+  {
+    "id": "106",
+    "item": "4813",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "107",
+    "item": "5547",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "108",
+    "item": "4806",
+    "gatheringItemLevel": "21",
+    "isHidden": "False"
+  },
+  {
+    "id": "109",
+    "item": "5388",
+    "gatheringItemLevel": "24",
+    "isHidden": "False"
+  },
+  {
+    "id": "110",
+    "item": "5385",
+    "gatheringItemLevel": "12",
+    "isHidden": "False"
+  },
+  {
+    "id": "111",
+    "item": "5409",
+    "gatheringItemLevel": "31",
+    "isHidden": "False"
+  },
+  {
+    "id": "112",
+    "item": "5390",
+    "gatheringItemLevel": "32",
+    "isHidden": "False"
+  },
+  {
+    "id": "113",
+    "item": "4803",
+    "gatheringItemLevel": "9",
+    "isHidden": "False"
+  },
+  {
+    "id": "114",
+    "item": "5352",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "115",
+    "item": "4831",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "116",
+    "item": "5351",
+    "gatheringItemLevel": "6",
+    "isHidden": "False"
+  },
+  {
+    "id": "117",
+    "item": "4811",
+    "gatheringItemLevel": "17",
+    "isHidden": "False"
+  },
+  {
+    "id": "118",
+    "item": "4828",
+    "gatheringItemLevel": "4",
+    "isHidden": "False"
+  },
+  {
+    "id": "119",
+    "item": "6146",
+    "gatheringItemLevel": "42",
+    "isHidden": "False"
+  },
+  {
+    "id": "120",
+    "item": "5395",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "121",
+    "item": "5562",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "122",
+    "item": "4805",
+    "gatheringItemLevel": "14",
+    "isHidden": "False"
+  },
+  {
+    "id": "123",
+    "item": "5359",
+    "gatheringItemLevel": "29",
+    "isHidden": "False"
+  },
+  {
+    "id": "124",
+    "item": "5534",
+    "gatheringItemLevel": "6",
+    "isHidden": "False"
+  },
+  {
+    "id": "125",
+    "item": "4844",
+    "gatheringItemLevel": "39",
+    "isHidden": "False"
+  },
+  {
+    "id": "126",
+    "item": "4786",
+    "gatheringItemLevel": "18",
+    "isHidden": "False"
+  },
+  {
+    "id": "127",
+    "item": "5535",
+    "gatheringItemLevel": "23",
+    "isHidden": "False"
+  },
+  {
+    "id": "128",
+    "item": "4810",
+    "gatheringItemLevel": "16",
+    "isHidden": "False"
+  },
+  {
+    "id": "129",
+    "item": "5537",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "130",
+    "item": "5391",
+    "gatheringItemLevel": "37",
+    "isHidden": "False"
+  },
+  {
+    "id": "131",
+    "item": "5536",
+    "gatheringItemLevel": "44",
+    "isHidden": "False"
+  },
+  {
+    "id": "132",
+    "item": "5396",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "133",
+    "item": "5380",
+    "gatheringItemLevel": "3",
+    "isHidden": "False"
+  },
+  {
+    "id": "134",
+    "item": "5498",
+    "gatheringItemLevel": "2",
+    "isHidden": "False"
+  },
+  {
+    "id": "135",
+    "item": "5405",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "136",
+    "item": "5386",
+    "gatheringItemLevel": "19",
+    "isHidden": "False"
+  },
+  {
+    "id": "137",
+    "item": "5509",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "138",
+    "item": "4809",
+    "gatheringItemLevel": "7",
+    "isHidden": "False"
+  },
+  {
+    "id": "139",
+    "item": "5414",
+    "gatheringItemLevel": "47",
+    "isHidden": "False"
+  },
+  {
+    "id": "140",
+    "item": "5393",
+    "gatheringItemLevel": "46",
+    "isHidden": "False"
+  },
+  {
+    "id": "141",
+    "item": "5516",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "142",
+    "item": "4793",
+    "gatheringItemLevel": "38",
+    "isHidden": "False"
+  },
+  {
+    "id": "143",
+    "item": "4835",
+    "gatheringItemLevel": "23",
+    "isHidden": "False"
+  },
+  {
+    "id": "144",
+    "item": "4790",
+    "gatheringItemLevel": "32",
+    "isHidden": "False"
+  },
+  {
+    "id": "145",
+    "item": "4788",
+    "gatheringItemLevel": "27",
+    "isHidden": "False"
+  },
+  {
+    "id": "146",
+    "item": "4779",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "147",
+    "item": "4804",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "148",
+    "item": "5540",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "149",
+    "item": "4829",
+    "gatheringItemLevel": "11",
+    "isHidden": "False"
+  },
+  {
+    "id": "150",
+    "item": "5542",
+    "gatheringItemLevel": "24",
+    "isHidden": "False"
+  },
+  {
+    "id": "151",
+    "item": "4834",
+    "gatheringItemLevel": "16",
+    "isHidden": "False"
+  },
+  {
+    "id": "152",
+    "item": "4796",
+    "gatheringItemLevel": "19",
+    "isHidden": "False"
+  },
+  {
+    "id": "153",
+    "item": "5560",
+    "gatheringItemLevel": "12",
+    "isHidden": "False"
+  },
+  {
+    "id": "154",
+    "item": "4778",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "155",
+    "item": "4845",
+    "gatheringItemLevel": "41",
+    "isHidden": "False"
+  },
+  {
+    "id": "156",
+    "item": "4846",
+    "gatheringItemLevel": "48",
+    "isHidden": "False"
+  },
+  {
+    "id": "157",
+    "item": "4822",
+    "gatheringItemLevel": "26",
+    "isHidden": "False"
+  },
+  {
+    "id": "158",
+    "item": "4795",
+    "gatheringItemLevel": "11",
+    "isHidden": "False"
+  },
+  {
+    "id": "159",
+    "item": "5538",
+    "gatheringItemLevel": "11",
+    "isHidden": "False"
+  },
+  {
+    "id": "160",
+    "item": "4792",
+    "gatheringItemLevel": "39",
+    "isHidden": "False"
+  },
+  {
+    "id": "161",
+    "item": "4819",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "162",
+    "item": "4783",
+    "gatheringItemLevel": "14",
+    "isHidden": "False"
+  },
+  {
+    "id": "163",
+    "item": "5054",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "164",
+    "item": "4841",
+    "gatheringItemLevel": "39",
+    "isHidden": "False"
+  },
+  {
+    "id": "165",
+    "item": "5051",
+    "gatheringItemLevel": "11",
+    "isHidden": "False"
+  },
+  {
+    "id": "166",
+    "item": "4843",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "167",
+    "item": "4838",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "168",
+    "item": "5545",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "169",
+    "item": "5546",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "170",
+    "item": "6145",
+    "gatheringItemLevel": "22",
+    "isHidden": "False"
+  },
+  {
+    "id": "171",
+    "item": "4781",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "172",
+    "item": "4836",
+    "gatheringItemLevel": "24",
+    "isHidden": "False"
+  },
+  {
+    "id": "173",
+    "item": "4816",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "174",
+    "item": "6148",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "175",
+    "item": "4784",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "176",
+    "item": "4818",
+    "gatheringItemLevel": "12",
+    "isHidden": "False"
+  },
+  {
+    "id": "177",
+    "item": "6147",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "178",
+    "item": "4785",
+    "gatheringItemLevel": "16",
+    "isHidden": "False"
+  },
+  {
+    "id": "179",
+    "item": "4812",
+    "gatheringItemLevel": "21",
+    "isHidden": "False"
+  },
+  {
+    "id": "180",
+    "item": "5360",
+    "gatheringItemLevel": "34",
+    "isHidden": "False"
+  },
+  {
+    "id": "181",
+    "item": "5564",
+    "gatheringItemLevel": "42",
+    "isHidden": "False"
+  },
+  {
+    "id": "182",
+    "item": "4800",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "183",
+    "item": "4830",
+    "gatheringItemLevel": "14",
+    "isHidden": "False"
+  },
+  {
+    "id": "184",
+    "item": "4814",
+    "gatheringItemLevel": "36",
+    "isHidden": "False"
+  },
+  {
+    "id": "185",
+    "item": "5541",
+    "gatheringItemLevel": "18",
+    "isHidden": "False"
+  },
+  {
+    "id": "186",
+    "item": "4797",
+    "gatheringItemLevel": "22",
+    "isHidden": "False"
+  },
+  {
+    "id": "187",
+    "item": "4787",
+    "gatheringItemLevel": "18",
+    "isHidden": "False"
+  },
+  {
+    "id": "188",
+    "item": "5563",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "189",
+    "item": "4798",
+    "gatheringItemLevel": "33",
+    "isHidden": "False"
+  },
+  {
+    "id": "190",
+    "item": "4832",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "191",
+    "item": "4840",
+    "gatheringItemLevel": "37",
+    "isHidden": "False"
+  },
+  {
+    "id": "192",
+    "item": "5543",
+    "gatheringItemLevel": "33",
+    "isHidden": "False"
+  },
+  {
+    "id": "193",
+    "item": "4789",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "194",
+    "item": "4837",
+    "gatheringItemLevel": "32",
+    "isHidden": "False"
+  },
+  {
+    "id": "195",
+    "item": "6209",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "196",
+    "item": "4821",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "197",
+    "item": "5559",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "198",
+    "item": "5341",
+    "gatheringItemLevel": "11",
+    "isHidden": "False"
+  },
+  {
+    "id": "199",
+    "item": "5055",
+    "gatheringItemLevel": "49",
+    "isHidden": "False"
+  },
+  {
+    "id": "200",
+    "item": "4823",
+    "gatheringItemLevel": "11",
+    "isHidden": "False"
+  },
+  {
+    "id": "201",
+    "item": "4782",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "202",
+    "item": "5539",
+    "gatheringItemLevel": "12",
+    "isHidden": "False"
+  },
+  {
+    "id": "203",
+    "item": "4791",
+    "gatheringItemLevel": "34",
+    "isHidden": "False"
+  },
+  {
+    "id": "204",
+    "item": "4780",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "205",
+    "item": "4820",
+    "gatheringItemLevel": "17",
+    "isHidden": "False"
+  },
+  {
+    "id": "206",
+    "item": "4808",
+    "gatheringItemLevel": "11",
+    "isHidden": "False"
+  },
+  {
+    "id": "207",
+    "item": "4839",
+    "gatheringItemLevel": "34",
+    "isHidden": "False"
+  },
+  {
+    "id": "208",
+    "item": "4815",
+    "gatheringItemLevel": "43",
+    "isHidden": "False"
+  },
+  {
+    "id": "209",
+    "item": "4777",
+    "gatheringItemLevel": "12",
+    "isHidden": "False"
+  },
+  {
+    "id": "210",
+    "item": "5346",
+    "gatheringItemLevel": "31",
+    "isHidden": "False"
+  },
+  {
+    "id": "211",
+    "item": "4824",
+    "gatheringItemLevel": "11",
+    "isHidden": "False"
+  },
+  {
+    "id": "212",
+    "item": "5350",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "213",
+    "item": "5343",
+    "gatheringItemLevel": "14",
+    "isHidden": "False"
+  },
+  {
+    "id": "214",
+    "item": "5342",
+    "gatheringItemLevel": "12",
+    "isHidden": "False"
+  },
+  {
+    "id": "215",
+    "item": "7010",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "216",
+    "item": "5267",
+    "gatheringItemLevel": "11",
+    "isHidden": "False"
+  },
+  {
+    "id": "217",
+    "item": "5513",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "218",
+    "item": "5230",
+    "gatheringItemLevel": "17",
+    "isHidden": "False"
+  },
+  {
+    "id": "219",
+    "item": "7008",
+    "gatheringItemLevel": "31",
+    "isHidden": "False"
+  },
+  {
+    "id": "220",
+    "item": "5514",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "221",
+    "item": "7011",
+    "gatheringItemLevel": "33",
+    "isHidden": "False"
+  },
+  {
+    "id": "222",
+    "item": "7012",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "223",
+    "item": "7029",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "224",
+    "item": "7030",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "225",
+    "item": "7031",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "226",
+    "item": "7715",
+    "gatheringItemLevel": "16",
+    "isHidden": "True"
+  },
+  {
+    "id": "227",
+    "item": "7716",
+    "gatheringItemLevel": "12",
+    "isHidden": "True"
+  },
+  {
+    "id": "228",
+    "item": "7717",
+    "gatheringItemLevel": "13",
+    "isHidden": "True"
+  },
+  {
+    "id": "229",
+    "item": "7718",
+    "gatheringItemLevel": "13",
+    "isHidden": "True"
+  },
+  {
+    "id": "230",
+    "item": "7719",
+    "gatheringItemLevel": "13",
+    "isHidden": "True"
+  },
+  {
+    "id": "231",
+    "item": "7720",
+    "gatheringItemLevel": "18",
+    "isHidden": "True"
+  },
+  {
+    "id": "232",
+    "item": "7721",
+    "gatheringItemLevel": "25",
+    "isHidden": "True"
+  },
+  {
+    "id": "233",
+    "item": "7722",
+    "gatheringItemLevel": "27",
+    "isHidden": "True"
+  },
+  {
+    "id": "234",
+    "item": "7723",
+    "gatheringItemLevel": "28",
+    "isHidden": "True"
+  },
+  {
+    "id": "235",
+    "item": "7724",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "236",
+    "item": "7725",
+    "gatheringItemLevel": "7",
+    "isHidden": "True"
+  },
+  {
+    "id": "237",
+    "item": "7726",
+    "gatheringItemLevel": "11",
+    "isHidden": "True"
+  },
+  {
+    "id": "238",
+    "item": "7727",
+    "gatheringItemLevel": "16",
+    "isHidden": "True"
+  },
+  {
+    "id": "239",
+    "item": "7728",
+    "gatheringItemLevel": "17",
+    "isHidden": "True"
+  },
+  {
+    "id": "240",
+    "item": "7729",
+    "gatheringItemLevel": "21",
+    "isHidden": "True"
+  },
+  {
+    "id": "241",
+    "item": "7730",
+    "gatheringItemLevel": "36",
+    "isHidden": "True"
+  },
+  {
+    "id": "242",
+    "item": "7731",
+    "gatheringItemLevel": "42",
+    "isHidden": "True"
+  },
+  {
+    "id": "243",
+    "item": "7732",
+    "gatheringItemLevel": "43",
+    "isHidden": "True"
+  },
+  {
+    "id": "244",
+    "item": "7733",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "245",
+    "item": "7734",
+    "gatheringItemLevel": "51",
+    "isHidden": "False"
+  },
+  {
+    "id": "246",
+    "item": "7735",
+    "gatheringItemLevel": "11",
+    "isHidden": "True"
+  },
+  {
+    "id": "247",
+    "item": "7736",
+    "gatheringItemLevel": "12",
+    "isHidden": "True"
+  },
+  {
+    "id": "248",
+    "item": "7737",
+    "gatheringItemLevel": "14",
+    "isHidden": "True"
+  },
+  {
+    "id": "249",
+    "item": "7738",
+    "gatheringItemLevel": "23",
+    "isHidden": "True"
+  },
+  {
+    "id": "250",
+    "item": "7739",
+    "gatheringItemLevel": "24",
+    "isHidden": "True"
+  },
+  {
+    "id": "251",
+    "item": "7740",
+    "gatheringItemLevel": "24",
+    "isHidden": "True"
+  },
+  {
+    "id": "252",
+    "item": "7741",
+    "gatheringItemLevel": "31",
+    "isHidden": "True"
+  },
+  {
+    "id": "253",
+    "item": "7742",
+    "gatheringItemLevel": "32",
+    "isHidden": "True"
+  },
+  {
+    "id": "254",
+    "item": "7743",
+    "gatheringItemLevel": "33",
+    "isHidden": "True"
+  },
+  {
+    "id": "255",
+    "item": "7744",
+    "gatheringItemLevel": "40",
+    "isHidden": "True"
+  },
+  {
+    "id": "256",
+    "item": "7758",
+    "gatheringItemLevel": "30",
+    "isHidden": "True"
+  },
+  {
+    "id": "257",
+    "item": "7759",
+    "gatheringItemLevel": "46",
+    "isHidden": "True"
+  },
+  {
+    "id": "258",
+    "item": "7760",
+    "gatheringItemLevel": "55",
+    "isHidden": "False"
+  },
+  {
+    "id": "259",
+    "item": "7761",
+    "gatheringItemLevel": "30",
+    "isHidden": "True"
+  },
+  {
+    "id": "260",
+    "item": "7762",
+    "gatheringItemLevel": "46",
+    "isHidden": "True"
+  },
+  {
+    "id": "261",
+    "item": "7763",
+    "gatheringItemLevel": "55",
+    "isHidden": "False"
+  },
+  {
+    "id": "262",
+    "item": "7764",
+    "gatheringItemLevel": "30",
+    "isHidden": "True"
+  },
+  {
+    "id": "263",
+    "item": "7765",
+    "gatheringItemLevel": "46",
+    "isHidden": "True"
+  },
+  {
+    "id": "264",
+    "item": "7766",
+    "gatheringItemLevel": "55",
+    "isHidden": "False"
+  },
+  {
+    "id": "265",
+    "item": "7610",
+    "gatheringItemLevel": "55",
+    "isHidden": "False"
+  },
+  {
+    "id": "266",
+    "item": "7588",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "267",
+    "item": "7589",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "268",
+    "item": "5146",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "269",
+    "item": "7611",
+    "gatheringItemLevel": "55",
+    "isHidden": "False"
+  },
+  {
+    "id": "270",
+    "item": "7590",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "271",
+    "item": "7591",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "272",
+    "item": "7592",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "273",
+    "item": "7593",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "274",
+    "item": "7594",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "275",
+    "item": "7595",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "276",
+    "item": "8030",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "277",
+    "item": "5147",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "278",
+    "item": "5148",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "279",
+    "item": "5149",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "280",
+    "item": "5150",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "281",
+    "item": "5151",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "282",
+    "item": "8031",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "283",
+    "item": "5365",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "284",
+    "item": "8024",
+    "gatheringItemLevel": "70",
+    "isHidden": "False"
+  },
+  {
+    "id": "285",
+    "item": "5120",
+    "gatheringItemLevel": "80",
+    "isHidden": "False"
+  },
+  {
+    "id": "286",
+    "item": "5394",
+    "gatheringItemLevel": "80",
+    "isHidden": "False"
+  },
+  {
+    "id": "287",
+    "item": "9519",
+    "gatheringItemLevel": "80",
+    "isHidden": "False"
+  },
+  {
+    "id": "288",
+    "item": "9518",
+    "gatheringItemLevel": "80",
+    "isHidden": "False"
+  },
+  {
+    "id": "289",
+    "item": "10092",
+    "gatheringItemLevel": "50",
+    "isHidden": "True"
+  },
+  {
+    "id": "290",
+    "item": "10093",
+    "gatheringItemLevel": "90",
+    "isHidden": "False"
+  },
+  {
+    "id": "291",
+    "item": "10096",
+    "gatheringItemLevel": "90",
+    "isHidden": "False"
+  },
+  {
+    "id": "292",
+    "item": "10099",
+    "gatheringItemLevel": "55",
+    "isHidden": "True"
+  },
+  {
+    "id": "293",
+    "item": "10094",
+    "gatheringItemLevel": "31",
+    "isHidden": "True"
+  },
+  {
+    "id": "294",
+    "item": "10095",
+    "gatheringItemLevel": "55",
+    "isHidden": "False"
+  },
+  {
+    "id": "295",
+    "item": "10097",
+    "gatheringItemLevel": "31",
+    "isHidden": "True"
+  },
+  {
+    "id": "296",
+    "item": "10098",
+    "gatheringItemLevel": "55",
+    "isHidden": "False"
+  },
+  {
+    "id": "297",
+    "item": "5521",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "298",
+    "item": "5126",
+    "gatheringItemLevel": "80",
+    "isHidden": "False"
+  },
+  {
+    "id": "299",
+    "item": "12531",
+    "gatheringItemLevel": "120",
+    "isHidden": "False"
+  },
+  {
+    "id": "300",
+    "item": "12551",
+    "gatheringItemLevel": "130",
+    "isHidden": "False"
+  },
+  {
+    "id": "301",
+    "item": "12534",
+    "gatheringItemLevel": "130",
+    "isHidden": "True"
+  },
+  {
+    "id": "302",
+    "item": "12552",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "303",
+    "item": "12553",
+    "gatheringItemLevel": "120",
+    "isHidden": "False"
+  },
+  {
+    "id": "304",
+    "item": "12631",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "305",
+    "item": "12555",
+    "gatheringItemLevel": "136",
+    "isHidden": "False"
+  },
+  {
+    "id": "306",
+    "item": "12554",
+    "gatheringItemLevel": "136",
+    "isHidden": "False"
+  },
+  {
+    "id": "307",
+    "item": "12537",
+    "gatheringItemLevel": "136",
+    "isHidden": "True"
+  },
+  {
+    "id": "308",
+    "item": "12556",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "309",
+    "item": "12532",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "310",
+    "item": "12632",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "311",
+    "item": "12557",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "312",
+    "item": "12558",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "313",
+    "item": "12535",
+    "gatheringItemLevel": "145",
+    "isHidden": "True"
+  },
+  {
+    "id": "314",
+    "item": "12539",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "315",
+    "item": "12533",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "316",
+    "item": "12559",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "317",
+    "item": "12560",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "318",
+    "item": "12538",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "319",
+    "item": "5127",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "320",
+    "item": "5108",
+    "gatheringItemLevel": "80",
+    "isHidden": "False"
+  },
+  {
+    "id": "321",
+    "item": "5109",
+    "gatheringItemLevel": "120",
+    "isHidden": "False"
+  },
+  {
+    "id": "322",
+    "item": "5162",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "323",
+    "item": "12941",
+    "gatheringItemLevel": "130",
+    "isHidden": "False"
+  },
+  {
+    "id": "324",
+    "item": "5112",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "325",
+    "item": "5161",
+    "gatheringItemLevel": "136",
+    "isHidden": "False"
+  },
+  {
+    "id": "326",
+    "item": "12901",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "327",
+    "item": "5214",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "328",
+    "item": "5218",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "329",
+    "item": "5117",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "330",
+    "item": "5159",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "331",
+    "item": "12942",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "332",
+    "item": "12966",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "333",
+    "item": "12967",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "334",
+    "item": "12536",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "335",
+    "item": "12540",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "336",
+    "item": "12945",
+    "gatheringItemLevel": "175",
+    "isHidden": "False"
+  },
+  {
+    "id": "337",
+    "item": "5226",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "338",
+    "item": "5163",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "339",
+    "item": "5160",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "340",
+    "item": "5220",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "341",
+    "item": "5224",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "342",
+    "item": "5403",
+    "gatheringItemLevel": "80",
+    "isHidden": "False"
+  },
+  {
+    "id": "343",
+    "item": "5384",
+    "gatheringItemLevel": "80",
+    "isHidden": "False"
+  },
+  {
+    "id": "344",
+    "item": "12597",
+    "gatheringItemLevel": "120",
+    "isHidden": "False"
+  },
+  {
+    "id": "345",
+    "item": "12880",
+    "gatheringItemLevel": "130",
+    "isHidden": "False"
+  },
+  {
+    "id": "346",
+    "item": "12883",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "347",
+    "item": "12878",
+    "gatheringItemLevel": "130",
+    "isHidden": "True"
+  },
+  {
+    "id": "348",
+    "item": "12598",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "349",
+    "item": "12578",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "350",
+    "item": "12585",
+    "gatheringItemLevel": "136",
+    "isHidden": "False"
+  },
+  {
+    "id": "351",
+    "item": "12893",
+    "gatheringItemLevel": "136",
+    "isHidden": "True"
+  },
+  {
+    "id": "352",
+    "item": "12879",
+    "gatheringItemLevel": "136",
+    "isHidden": "True"
+  },
+  {
+    "id": "353",
+    "item": "12885",
+    "gatheringItemLevel": "136",
+    "isHidden": "False"
+  },
+  {
+    "id": "354",
+    "item": "12638",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "355",
+    "item": "12887",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "356",
+    "item": "12639",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "357",
+    "item": "12579",
+    "gatheringItemLevel": "145",
+    "isHidden": "True"
+  },
+  {
+    "id": "358",
+    "item": "12586",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "359",
+    "item": "12642",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "360",
+    "item": "12643",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "361",
+    "item": "12640",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "362",
+    "item": "12891",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "363",
+    "item": "12641",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "364",
+    "item": "12900",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "365",
+    "item": "12896",
+    "gatheringItemLevel": "80",
+    "isHidden": "False"
+  },
+  {
+    "id": "366",
+    "item": "12899",
+    "gatheringItemLevel": "120",
+    "isHidden": "False"
+  },
+  {
+    "id": "367",
+    "item": "12877",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "368",
+    "item": "12882",
+    "gatheringItemLevel": "130",
+    "isHidden": "False"
+  },
+  {
+    "id": "369",
+    "item": "12943",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "370",
+    "item": "12884",
+    "gatheringItemLevel": "136",
+    "isHidden": "False"
+  },
+  {
+    "id": "371",
+    "item": "12889",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "372",
+    "item": "12968",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "373",
+    "item": "12971",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "374",
+    "item": "12944",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "375",
+    "item": "12897",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "376",
+    "item": "12898",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "377",
+    "item": "12969",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "378",
+    "item": "12972",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "379",
+    "item": "12634",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "380",
+    "item": "12587",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "381",
+    "item": "12902",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "382",
+    "item": "4833",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "383",
+    "item": "12903",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "384",
+    "item": "12904",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "385",
+    "item": "12970",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "386",
+    "item": "12973",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "387",
+    "item": "10335",
+    "gatheringItemLevel": "70",
+    "isHidden": "True"
+  },
+  {
+    "id": "388",
+    "item": "13759",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "389",
+    "item": "13760",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "390",
+    "item": "13761",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "391",
+    "item": "13762",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "392",
+    "item": "13763",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "393",
+    "item": "13764",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "394",
+    "item": "13765",
+    "gatheringItemLevel": "80",
+    "isHidden": "False"
+  },
+  {
+    "id": "395",
+    "item": "13767",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "396",
+    "item": "13768",
+    "gatheringItemLevel": "130",
+    "isHidden": "False"
+  },
+  {
+    "id": "397",
+    "item": "14154",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "398",
+    "item": "14956",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "399",
+    "item": "14159",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "400",
+    "item": "14160",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "401",
+    "item": "14957",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "402",
+    "item": "14148",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "403",
+    "item": "14955",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "404",
+    "item": "14151",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "405",
+    "item": "14190",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "406",
+    "item": "15646",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "407",
+    "item": "15647",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "408",
+    "item": "15948",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "409",
+    "item": "15949",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "410",
+    "item": "15865",
+    "gatheringItemLevel": "1",
+    "isHidden": "True"
+  },
+  {
+    "id": "411",
+    "item": "15866",
+    "gatheringItemLevel": "1",
+    "isHidden": "True"
+  },
+  {
+    "id": "412",
+    "item": "15867",
+    "gatheringItemLevel": "1",
+    "isHidden": "True"
+  },
+  {
+    "id": "413",
+    "item": "15868",
+    "gatheringItemLevel": "1",
+    "isHidden": "True"
+  },
+  {
+    "id": "414",
+    "item": "15869",
+    "gatheringItemLevel": "1",
+    "isHidden": "True"
+  },
+  {
+    "id": "415",
+    "item": "15870",
+    "gatheringItemLevel": "1",
+    "isHidden": "True"
+  },
+  {
+    "id": "416",
+    "item": "5392",
+    "gatheringItemLevel": "200",
+    "isHidden": "False"
+  },
+  {
+    "id": "417",
+    "item": "16721",
+    "gatheringItemLevel": "200",
+    "isHidden": "False"
+  },
+  {
+    "id": "418",
+    "item": "16722",
+    "gatheringItemLevel": "200",
+    "isHidden": "False"
+  },
+  {
+    "id": "419",
+    "item": "16723",
+    "gatheringItemLevel": "200",
+    "isHidden": "False"
+  },
+  {
+    "id": "420",
+    "item": "16724",
+    "gatheringItemLevel": "200",
+    "isHidden": "False"
+  },
+  {
+    "id": "421",
+    "item": "16725",
+    "gatheringItemLevel": "200",
+    "isHidden": "False"
+  },
+  {
+    "id": "422",
+    "item": "16726",
+    "gatheringItemLevel": "200",
+    "isHidden": "False"
+  },
+  {
+    "id": "423",
+    "item": "17557",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "424",
+    "item": "17558",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "425",
+    "item": "17559",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "426",
+    "item": "17560",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "427",
+    "item": "17561",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "428",
+    "item": "19910",
+    "gatheringItemLevel": "190",
+    "isHidden": "False"
+  },
+  {
+    "id": "429",
+    "item": "19968",
+    "gatheringItemLevel": "190",
+    "isHidden": "False"
+  },
+  {
+    "id": "430",
+    "item": "19871",
+    "gatheringItemLevel": "205",
+    "isHidden": "False"
+  },
+  {
+    "id": "431",
+    "item": "19969",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "432",
+    "item": "19951",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "433",
+    "item": "19872",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "434",
+    "item": "19970",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "435",
+    "item": "19953",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "436",
+    "item": "19971",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "437",
+    "item": "20009",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "438",
+    "item": "19954",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "439",
+    "item": "19972",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "440",
+    "item": "19957",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "441",
+    "item": "19973",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "442",
+    "item": "19958",
+    "gatheringItemLevel": "300",
+    "isHidden": "False"
+  },
+  {
+    "id": "443",
+    "item": "19959",
+    "gatheringItemLevel": "300",
+    "isHidden": "False"
+  },
+  {
+    "id": "444",
+    "item": "20011",
+    "gatheringItemLevel": "300",
+    "isHidden": "False"
+  },
+  {
+    "id": "445",
+    "item": "5232",
+    "gatheringItemLevel": "205",
+    "isHidden": "False"
+  },
+  {
+    "id": "446",
+    "item": "19950",
+    "gatheringItemLevel": "205",
+    "isHidden": "False"
+  },
+  {
+    "id": "447",
+    "item": "20007",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "448",
+    "item": "20006",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "449",
+    "item": "19952",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "450",
+    "item": "20010",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "451",
+    "item": "19955",
+    "gatheringItemLevel": "245",
+    "isHidden": "False"
+  },
+  {
+    "id": "452",
+    "item": "19956",
+    "gatheringItemLevel": "275",
+    "isHidden": "False"
+  },
+  {
+    "id": "453",
+    "item": "19907",
+    "gatheringItemLevel": "275",
+    "isHidden": "False"
+  },
+  {
+    "id": "454",
+    "item": "19936",
+    "gatheringItemLevel": "190",
+    "isHidden": "False"
+  },
+  {
+    "id": "455",
+    "item": "19851",
+    "gatheringItemLevel": "205",
+    "isHidden": "False"
+  },
+  {
+    "id": "456",
+    "item": "19930",
+    "gatheringItemLevel": "205",
+    "isHidden": "False"
+  },
+  {
+    "id": "457",
+    "item": "19931",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "458",
+    "item": "19908",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "459",
+    "item": "5389",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "460",
+    "item": "19860",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "461",
+    "item": "19863",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "462",
+    "item": "19870",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "463",
+    "item": "19869",
+    "gatheringItemLevel": "245",
+    "isHidden": "False"
+  },
+  {
+    "id": "464",
+    "item": "19932",
+    "gatheringItemLevel": "245",
+    "isHidden": "False"
+  },
+  {
+    "id": "465",
+    "item": "19933",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "466",
+    "item": "19852",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "467",
+    "item": "19934",
+    "gatheringItemLevel": "300",
+    "isHidden": "False"
+  },
+  {
+    "id": "468",
+    "item": "19937",
+    "gatheringItemLevel": "300",
+    "isHidden": "False"
+  },
+  {
+    "id": "469",
+    "item": "19868",
+    "gatheringItemLevel": "190",
+    "isHidden": "False"
+  },
+  {
+    "id": "470",
+    "item": "19976",
+    "gatheringItemLevel": "190",
+    "isHidden": "False"
+  },
+  {
+    "id": "471",
+    "item": "19850",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "472",
+    "item": "19861",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "473",
+    "item": "19881",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "474",
+    "item": "19917",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "475",
+    "item": "19979",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "476",
+    "item": "19856",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "477",
+    "item": "19859",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "478",
+    "item": "19862",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "479",
+    "item": "19879",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "480",
+    "item": "19853",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "481",
+    "item": "19864",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "482",
+    "item": "19982",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "483",
+    "item": "19855",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "484",
+    "item": "19858",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "485",
+    "item": "19865",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "486",
+    "item": "19866",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "487",
+    "item": "19867",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "488",
+    "item": "19916",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "489",
+    "item": "20012",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "490",
+    "item": "19880",
+    "gatheringItemLevel": "245",
+    "isHidden": "False"
+  },
+  {
+    "id": "491",
+    "item": "19857",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "492",
+    "item": "19911",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "493",
+    "item": "19912",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "494",
+    "item": "19913",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "495",
+    "item": "19914",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "496",
+    "item": "19915",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "497",
+    "item": "19854",
+    "gatheringItemLevel": "275",
+    "isHidden": "False"
+  },
+  {
+    "id": "498",
+    "item": "19989",
+    "gatheringItemLevel": "275",
+    "isHidden": "False"
+  },
+  {
+    "id": "499",
+    "item": "19918",
+    "gatheringItemLevel": "300",
+    "isHidden": "False"
+  },
+  {
+    "id": "500",
+    "item": "19991",
+    "gatheringItemLevel": "300",
+    "isHidden": "False"
+  },
+  {
+    "id": "501",
+    "item": "20780",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "502",
+    "item": "20781",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "503",
+    "item": "20782",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "504",
+    "item": "20783",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "505",
+    "item": "20784",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "506",
+    "item": "21085",
+    "gatheringItemLevel": "300",
+    "isHidden": "False"
+  },
+  {
+    "id": "507",
+    "item": "21086",
+    "gatheringItemLevel": "300",
+    "isHidden": "False"
+  },
+  {
+    "id": "508",
+    "item": "22417",
+    "gatheringItemLevel": "320",
+    "isHidden": "False"
+  },
+  {
+    "id": "509",
+    "item": "22418",
+    "gatheringItemLevel": "320",
+    "isHidden": "False"
+  },
+  {
+    "id": "510",
+    "item": "22419",
+    "gatheringItemLevel": "320",
+    "isHidden": "False"
+  },
+  {
+    "id": "511",
+    "item": "22420",
+    "gatheringItemLevel": "320",
+    "isHidden": "False"
+  },
+  {
+    "id": "512",
+    "item": "23179",
+    "gatheringItemLevel": "320",
+    "isHidden": "False"
+  },
+  {
+    "id": "513",
+    "item": "23180",
+    "gatheringItemLevel": "320",
+    "isHidden": "False"
+  },
+  {
+    "id": "514",
+    "item": "23220",
+    "gatheringItemLevel": "320",
+    "isHidden": "False"
+  },
+  {
+    "id": "515",
+    "item": "23221",
+    "gatheringItemLevel": "320",
+    "isHidden": "False"
+  },
+  {
+    "id": "516",
+    "item": "23148",
+    "gatheringItemLevel": "205",
+    "isHidden": "False"
+  },
+  {
+    "id": "517",
+    "item": "23149",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "518",
+    "item": "23150",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "519",
+    "item": "23151",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "520",
+    "item": "23152",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "521",
+    "item": "24255",
+    "gatheringItemLevel": "320",
+    "isHidden": "False"
+  },
+  {
+    "id": "522",
+    "item": "24240",
+    "gatheringItemLevel": "340",
+    "isHidden": "False"
+  },
+  {
+    "id": "523",
+    "item": "24241",
+    "gatheringItemLevel": "340",
+    "isHidden": "False"
+  },
+  {
+    "id": "524",
+    "item": "24242",
+    "gatheringItemLevel": "340",
+    "isHidden": "False"
+  },
+  {
+    "id": "525",
+    "item": "24243",
+    "gatheringItemLevel": "340",
+    "isHidden": "False"
+  },
+  {
+    "id": "526",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "527",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "528",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "529",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "530",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "531",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "532",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "533",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "534",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "535",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "536",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "537",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "538",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "539",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "540",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "541",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "542",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "543",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "544",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "545",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "546",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "547",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "548",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "549",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "550",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "10000",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "10001",
+    "item": "2000267",
+    "gatheringItemLevel": "4",
+    "isHidden": "False"
+  },
+  {
+    "id": "10002",
+    "item": "2000265",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "10003",
+    "item": "2000270",
+    "gatheringItemLevel": "4",
+    "isHidden": "False"
+  },
+  {
+    "id": "10004",
+    "item": "2000268",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "10005",
+    "item": "2000271",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "10006",
+    "item": "2000273",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "10007",
+    "item": "2000277",
+    "gatheringItemLevel": "8",
+    "isHidden": "False"
+  },
+  {
+    "id": "10008",
+    "item": "2000275",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10009",
+    "item": "2000280",
+    "gatheringItemLevel": "8",
+    "isHidden": "False"
+  },
+  {
+    "id": "10010",
+    "item": "2000278",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10011",
+    "item": "2000281",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10012",
+    "item": "2000283",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10013",
+    "item": "2000287",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "10014",
+    "item": "2000285",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "10015",
+    "item": "2000288",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "10016",
+    "item": "2000268",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "10017",
+    "item": "2000289",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "10018",
+    "item": "2000293",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "10019",
+    "item": "2000291",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "10020",
+    "item": "2000295",
+    "gatheringItemLevel": "18",
+    "isHidden": "False"
+  },
+  {
+    "id": "10021",
+    "item": "2000294",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "10022",
+    "item": "2000296",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "10023",
+    "item": "2000298",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "10024",
+    "item": "2000308",
+    "gatheringItemLevel": "18",
+    "isHidden": "False"
+  },
+  {
+    "id": "10025",
+    "item": "2000303",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "10026",
+    "item": "2000302",
+    "gatheringItemLevel": "18",
+    "isHidden": "False"
+  },
+  {
+    "id": "10027",
+    "item": "2000300",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "10028",
+    "item": "2000306",
+    "gatheringItemLevel": "23",
+    "isHidden": "False"
+  },
+  {
+    "id": "10029",
+    "item": "2000304",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "10030",
+    "item": "2000307",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "10031",
+    "item": "2000309",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "10032",
+    "item": "2000271",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "10033",
+    "item": "2000316",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "10034",
+    "item": "2000311",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "10035",
+    "item": "2000295",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "10036",
+    "item": "2000294",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "10037",
+    "item": "2000313",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "10038",
+    "item": "2000315",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "10039",
+    "item": "2000317",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "10040",
+    "item": "2000464",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "10041",
+    "item": "2000465",
+    "gatheringItemLevel": "33",
+    "isHidden": "False"
+  },
+  {
+    "id": "10042",
+    "item": "2000466",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "10043",
+    "item": "2000467",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "10044",
+    "item": "2000468",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "10045",
+    "item": "2000911",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "10046",
+    "item": "2000912",
+    "gatheringItemLevel": "38",
+    "isHidden": "False"
+  },
+  {
+    "id": "10047",
+    "item": "2000913",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "10048",
+    "item": "2000914",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "10049",
+    "item": "2000915",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "10050",
+    "item": "2000916",
+    "gatheringItemLevel": "38",
+    "isHidden": "False"
+  },
+  {
+    "id": "10051",
+    "item": "2000917",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "10052",
+    "item": "2000918",
+    "gatheringItemLevel": "43",
+    "isHidden": "False"
+  },
+  {
+    "id": "10053",
+    "item": "2000919",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "10054",
+    "item": "2000920",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "10055",
+    "item": "2000921",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "10056",
+    "item": "2000922",
+    "gatheringItemLevel": "43",
+    "isHidden": "False"
+  },
+  {
+    "id": "10057",
+    "item": "2000923",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "10058",
+    "item": "2000924",
+    "gatheringItemLevel": "48",
+    "isHidden": "False"
+  },
+  {
+    "id": "10059",
+    "item": "2000925",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "10060",
+    "item": "2000926",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "10061",
+    "item": "2000927",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "10062",
+    "item": "2000928",
+    "gatheringItemLevel": "48",
+    "isHidden": "False"
+  },
+  {
+    "id": "10063",
+    "item": "2000469",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "10064",
+    "item": "2000470",
+    "gatheringItemLevel": "4",
+    "isHidden": "False"
+  },
+  {
+    "id": "10065",
+    "item": "2000471",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "10066",
+    "item": "2000472",
+    "gatheringItemLevel": "4",
+    "isHidden": "False"
+  },
+  {
+    "id": "10067",
+    "item": "2000473",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "10068",
+    "item": "2000474",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "10069",
+    "item": "2000475",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10070",
+    "item": "2000476",
+    "gatheringItemLevel": "8",
+    "isHidden": "False"
+  },
+  {
+    "id": "10071",
+    "item": "2000477",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10072",
+    "item": "2000478",
+    "gatheringItemLevel": "8",
+    "isHidden": "False"
+  },
+  {
+    "id": "10073",
+    "item": "2000479",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10074",
+    "item": "2000480",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10075",
+    "item": "2000481",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "10076",
+    "item": "2000482",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "10077",
+    "item": "2000483",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "10078",
+    "item": "2000484",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "10079",
+    "item": "2000485",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "10080",
+    "item": "2000486",
+    "gatheringItemLevel": "10",
+    "isHidden": "False"
+  },
+  {
+    "id": "10081",
+    "item": "2000487",
+    "gatheringItemLevel": "13",
+    "isHidden": "False"
+  },
+  {
+    "id": "10082",
+    "item": "2000488",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "10083",
+    "item": "2000489",
+    "gatheringItemLevel": "18",
+    "isHidden": "False"
+  },
+  {
+    "id": "10084",
+    "item": "2000490",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "10085",
+    "item": "2000491",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "10086",
+    "item": "2000492",
+    "gatheringItemLevel": "15",
+    "isHidden": "False"
+  },
+  {
+    "id": "10087",
+    "item": "2000493",
+    "gatheringItemLevel": "18",
+    "isHidden": "False"
+  },
+  {
+    "id": "10088",
+    "item": "2000494",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "10089",
+    "item": "2000495",
+    "gatheringItemLevel": "23",
+    "isHidden": "False"
+  },
+  {
+    "id": "10090",
+    "item": "2000496",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "10091",
+    "item": "2000497",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "10092",
+    "item": "2000498",
+    "gatheringItemLevel": "20",
+    "isHidden": "False"
+  },
+  {
+    "id": "10093",
+    "item": "2000499",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "10094",
+    "item": "2000500",
+    "gatheringItemLevel": "28",
+    "isHidden": "False"
+  },
+  {
+    "id": "10095",
+    "item": "2000501",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "10096",
+    "item": "2000502",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "10097",
+    "item": "2000503",
+    "gatheringItemLevel": "25",
+    "isHidden": "False"
+  },
+  {
+    "id": "10098",
+    "item": "2000504",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "10099",
+    "item": "2000505",
+    "gatheringItemLevel": "33",
+    "isHidden": "False"
+  },
+  {
+    "id": "10100",
+    "item": "2000506",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "10101",
+    "item": "2000507",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "10102",
+    "item": "2000508",
+    "gatheringItemLevel": "30",
+    "isHidden": "False"
+  },
+  {
+    "id": "10103",
+    "item": "2000893",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "10104",
+    "item": "2000894",
+    "gatheringItemLevel": "38",
+    "isHidden": "False"
+  },
+  {
+    "id": "10105",
+    "item": "2000895",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "10106",
+    "item": "2000896",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "10107",
+    "item": "2000897",
+    "gatheringItemLevel": "35",
+    "isHidden": "False"
+  },
+  {
+    "id": "10108",
+    "item": "2000898",
+    "gatheringItemLevel": "38",
+    "isHidden": "False"
+  },
+  {
+    "id": "10109",
+    "item": "2000899",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "10110",
+    "item": "2000900",
+    "gatheringItemLevel": "43",
+    "isHidden": "False"
+  },
+  {
+    "id": "10111",
+    "item": "2000901",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "10112",
+    "item": "2000902",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "10113",
+    "item": "2000903",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "10114",
+    "item": "2000904",
+    "gatheringItemLevel": "43",
+    "isHidden": "False"
+  },
+  {
+    "id": "10115",
+    "item": "2000905",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "10116",
+    "item": "2000906",
+    "gatheringItemLevel": "48",
+    "isHidden": "False"
+  },
+  {
+    "id": "10117",
+    "item": "2000907",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "10118",
+    "item": "2000908",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "10119",
+    "item": "2000909",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "10120",
+    "item": "2000910",
+    "gatheringItemLevel": "48",
+    "isHidden": "False"
+  },
+  {
+    "id": "10121",
+    "item": "6688",
+    "gatheringItemLevel": "40",
+    "isHidden": "False"
+  },
+  {
+    "id": "10122",
+    "item": "6689",
+    "gatheringItemLevel": "45",
+    "isHidden": "False"
+  },
+  {
+    "id": "10123",
+    "item": "6690",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "10124",
+    "item": "6691",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "10125",
+    "item": "6692",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "10126",
+    "item": "2001391",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "10127",
+    "item": "2001392",
+    "gatheringItemLevel": "2",
+    "isHidden": "False"
+  },
+  {
+    "id": "10128",
+    "item": "2001415",
+    "gatheringItemLevel": "3",
+    "isHidden": "False"
+  },
+  {
+    "id": "10129",
+    "item": "2001416",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10130",
+    "item": "2001426",
+    "gatheringItemLevel": "4",
+    "isHidden": "False"
+  },
+  {
+    "id": "10131",
+    "item": "2001427",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10132",
+    "item": "2001388",
+    "gatheringItemLevel": "1",
+    "isHidden": "False"
+  },
+  {
+    "id": "10133",
+    "item": "2001389",
+    "gatheringItemLevel": "3",
+    "isHidden": "False"
+  },
+  {
+    "id": "10134",
+    "item": "2001412",
+    "gatheringItemLevel": "3",
+    "isHidden": "False"
+  },
+  {
+    "id": "10135",
+    "item": "2001413",
+    "gatheringItemLevel": "4",
+    "isHidden": "False"
+  },
+  {
+    "id": "10136",
+    "item": "2001424",
+    "gatheringItemLevel": "4",
+    "isHidden": "False"
+  },
+  {
+    "id": "10137",
+    "item": "2001425",
+    "gatheringItemLevel": "5",
+    "isHidden": "False"
+  },
+  {
+    "id": "10138",
+    "item": "12241",
+    "gatheringItemLevel": "136",
+    "isHidden": "False"
+  },
+  {
+    "id": "10139",
+    "item": "12242",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10140",
+    "item": "12243",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10141",
+    "item": "2001846",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "10142",
+    "item": "2001845",
+    "gatheringItemLevel": "130",
+    "isHidden": "False"
+  },
+  {
+    "id": "10143",
+    "item": "2001847",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "10144",
+    "item": "2001849",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "10145",
+    "item": "2001848",
+    "gatheringItemLevel": "130",
+    "isHidden": "False"
+  },
+  {
+    "id": "10146",
+    "item": "2001851",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "10147",
+    "item": "2001850",
+    "gatheringItemLevel": "136",
+    "isHidden": "False"
+  },
+  {
+    "id": "10148",
+    "item": "2001852",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "10149",
+    "item": "2001853",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "10150",
+    "item": "2001855",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "10151",
+    "item": "2001854",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10152",
+    "item": "2001856",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "10153",
+    "item": "2001858",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "10154",
+    "item": "2001857",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10155",
+    "item": "2001859",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "10156",
+    "item": "2001860",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "10157",
+    "item": "2001862",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "10158",
+    "item": "2001861",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10159",
+    "item": "2001864",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10160",
+    "item": "2001863",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10161",
+    "item": "2001865",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10162",
+    "item": "2001867",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10163",
+    "item": "2001866",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10164",
+    "item": "2001823",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "10165",
+    "item": "2001822",
+    "gatheringItemLevel": "130",
+    "isHidden": "False"
+  },
+  {
+    "id": "10166",
+    "item": "2001824",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "10167",
+    "item": "2001826",
+    "gatheringItemLevel": "50",
+    "isHidden": "False"
+  },
+  {
+    "id": "10168",
+    "item": "2001825",
+    "gatheringItemLevel": "130",
+    "isHidden": "False"
+  },
+  {
+    "id": "10169",
+    "item": "2001828",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "10170",
+    "item": "2001827",
+    "gatheringItemLevel": "136",
+    "isHidden": "False"
+  },
+  {
+    "id": "10171",
+    "item": "2001829",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "10172",
+    "item": "2001830",
+    "gatheringItemLevel": "125",
+    "isHidden": "False"
+  },
+  {
+    "id": "10173",
+    "item": "2001832",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "10174",
+    "item": "2001831",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10175",
+    "item": "2001833",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "10176",
+    "item": "2001835",
+    "gatheringItemLevel": "133",
+    "isHidden": "False"
+  },
+  {
+    "id": "10177",
+    "item": "2001834",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10178",
+    "item": "2001836",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "10179",
+    "item": "2001837",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "10180",
+    "item": "2001839",
+    "gatheringItemLevel": "139",
+    "isHidden": "False"
+  },
+  {
+    "id": "10181",
+    "item": "2001838",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10182",
+    "item": "2001841",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10183",
+    "item": "2001840",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10184",
+    "item": "2001842",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10185",
+    "item": "2001844",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10186",
+    "item": "2001843",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10187",
+    "item": "12949",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10188",
+    "item": "12946",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10189",
+    "item": "12948",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10190",
+    "item": "12947",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10191",
+    "item": "12950",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10192",
+    "item": "12954",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10193",
+    "item": "12951",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10194",
+    "item": "12953",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10195",
+    "item": "12952",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10196",
+    "item": "12955",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10197",
+    "item": "12959",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10198",
+    "item": "12956",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10199",
+    "item": "12958",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10200",
+    "item": "12957",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10201",
+    "item": "12960",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10202",
+    "item": "12964",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10203",
+    "item": "12961",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10204",
+    "item": "12963",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10205",
+    "item": "12962",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10206",
+    "item": "12965",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10207",
+    "item": "13750",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10208",
+    "item": "13752",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10209",
+    "item": "13753",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10210",
+    "item": "13631",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10211",
+    "item": "17570",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10212",
+    "item": "17571",
+    "gatheringItemLevel": "180",
+    "isHidden": "False"
+  },
+  {
+    "id": "10213",
+    "item": "17689",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10214",
+    "item": "2002120",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10215",
+    "item": "2002121",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "10216",
+    "item": "2002122",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10217",
+    "item": "2002123",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10218",
+    "item": "2002124",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "10219",
+    "item": "2002125",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "10220",
+    "item": "2002126",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "10221",
+    "item": "2002127",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "10222",
+    "item": "2002128",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "10223",
+    "item": "2002129",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "10224",
+    "item": "2002130",
+    "gatheringItemLevel": "245",
+    "isHidden": "False"
+  },
+  {
+    "id": "10225",
+    "item": "2002131",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "10226",
+    "item": "2002132",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "10227",
+    "item": "2002133",
+    "gatheringItemLevel": "245",
+    "isHidden": "False"
+  },
+  {
+    "id": "10228",
+    "item": "2002134",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "10229",
+    "item": "2002135",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "10230",
+    "item": "2002136",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "10231",
+    "item": "2002137",
+    "gatheringItemLevel": "275",
+    "isHidden": "False"
+  },
+  {
+    "id": "10232",
+    "item": "2002138",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "10233",
+    "item": "2002139",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "10234",
+    "item": "2002140",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "10235",
+    "item": "2002141",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "10236",
+    "item": "2002142",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "10237",
+    "item": "2002143",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10238",
+    "item": "2002144",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "10239",
+    "item": "2002145",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10240",
+    "item": "2002146",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10241",
+    "item": "2002147",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "10242",
+    "item": "2002148",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "10243",
+    "item": "2002149",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "10244",
+    "item": "2002150",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "10245",
+    "item": "2002151",
+    "gatheringItemLevel": "210",
+    "isHidden": "False"
+  },
+  {
+    "id": "10246",
+    "item": "2002152",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "10247",
+    "item": "2002153",
+    "gatheringItemLevel": "245",
+    "isHidden": "False"
+  },
+  {
+    "id": "10248",
+    "item": "2002154",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "10249",
+    "item": "2002155",
+    "gatheringItemLevel": "220",
+    "isHidden": "False"
+  },
+  {
+    "id": "10250",
+    "item": "2002156",
+    "gatheringItemLevel": "245",
+    "isHidden": "False"
+  },
+  {
+    "id": "10251",
+    "item": "2002157",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "10252",
+    "item": "2002158",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "10253",
+    "item": "2002159",
+    "gatheringItemLevel": "230",
+    "isHidden": "False"
+  },
+  {
+    "id": "10254",
+    "item": "2002160",
+    "gatheringItemLevel": "275",
+    "isHidden": "False"
+  },
+  {
+    "id": "10255",
+    "item": "2002161",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "10256",
+    "item": "2002162",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "10257",
+    "item": "2002163",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "10258",
+    "item": "2002164",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "10259",
+    "item": "2002165",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "10260",
+    "item": "17835",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "10261",
+    "item": "17836",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "10262",
+    "item": "17941",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "10263",
+    "item": "17942",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "10264",
+    "item": "17943",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "10265",
+    "item": "17944",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "10266",
+    "item": "17945",
+    "gatheringItemLevel": "215",
+    "isHidden": "False"
+  },
+  {
+    "id": "10267",
+    "item": "17946",
+    "gatheringItemLevel": "225",
+    "isHidden": "False"
+  },
+  {
+    "id": "10268",
+    "item": "17947",
+    "gatheringItemLevel": "260",
+    "isHidden": "False"
+  },
+  {
+    "id": "10269",
+    "item": "17948",
+    "gatheringItemLevel": "290",
+    "isHidden": "False"
+  },
+  {
+    "id": "10270",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "10271",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "10272",
+    "item": "22616",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10273",
+    "item": "22617",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10274",
+    "item": "22618",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10275",
+    "item": "22619",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10276",
+    "item": "22620",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10277",
+    "item": "22621",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10278",
+    "item": "22622",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10279",
+    "item": "22623",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10280",
+    "item": "22624",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10281",
+    "item": "22625",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10282",
+    "item": "22626",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10283",
+    "item": "22627",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10284",
+    "item": "22628",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10285",
+    "item": "22629",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10286",
+    "item": "22630",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10287",
+    "item": "22631",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10288",
+    "item": "22632",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10289",
+    "item": "22633",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10290",
+    "item": "22634",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10291",
+    "item": "22635",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10292",
+    "item": "22636",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10293",
+    "item": "22637",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10294",
+    "item": "22638",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10295",
+    "item": "22639",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10296",
+    "item": "22640",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10297",
+    "item": "22641",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10298",
+    "item": "22642",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10299",
+    "item": "22643",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10300",
+    "item": "22644",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10301",
+    "item": "22645",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10302",
+    "item": "22646",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10303",
+    "item": "22647",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10304",
+    "item": "22648",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10305",
+    "item": "22649",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10306",
+    "item": "22650",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10307",
+    "item": "22651",
+    "gatheringItemLevel": "142",
+    "isHidden": "False"
+  },
+  {
+    "id": "10308",
+    "item": "22652",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10309",
+    "item": "22653",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10310",
+    "item": "22654",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10311",
+    "item": "22655",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10312",
+    "item": "22656",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10313",
+    "item": "22657",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10314",
+    "item": "22658",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10315",
+    "item": "22659",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10316",
+    "item": "22660",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10317",
+    "item": "22661",
+    "gatheringItemLevel": "145",
+    "isHidden": "False"
+  },
+  {
+    "id": "10318",
+    "item": "22662",
+    "gatheringItemLevel": "148",
+    "isHidden": "False"
+  },
+  {
+    "id": "10319",
+    "item": "22663",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10320",
+    "item": "22664",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10321",
+    "item": "22665",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10322",
+    "item": "22666",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10323",
+    "item": "22667",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10324",
+    "item": "23169",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10325",
+    "item": "23170",
+    "gatheringItemLevel": "150",
+    "isHidden": "False"
+  },
+  {
+    "id": "10326",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "10327",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "10328",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "10329",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  },
+  {
+    "id": "10330",
+    "item": "0",
+    "gatheringItemLevel": "0",
+    "isHidden": "False"
+  }
+]

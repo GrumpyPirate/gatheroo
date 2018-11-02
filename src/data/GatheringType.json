@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0",
+    "name": "Mining",
+    "iconMain": "60438",
+    "iconOff": "60464"
+  },
+  {
+    "id": "1",
+    "name": "Quarrying",
+    "iconMain": "60437",
+    "iconOff": "60463"
+  },
+  {
+    "id": "2",
+    "name": "Logging",
+    "iconMain": "60433",
+    "iconOff": "60462"
+  },
+  {
+    "id": "3",
+    "name": "Harvesting",
+    "iconMain": "60432",
+    "iconOff": "60461"
+  },
+  {
+    "id": "4",
+    "name": "●銛",
+    "iconMain": "60929",
+    "iconOff": "60930"
+  }
+]
