@@ -2,7 +2,7 @@ const lowdb = require('lowdb');
 const FileSync = require('lowdb/adapters/FileSync');
 const fs = require('fs');
 const path = require('path');
-const get = require('lodash/get');
+const merge = require('lodash/merge');
 
 const getJson = require('./helpers/getJson');
 const getZonesFromItemId = require('./helpers/getZonesFromItemId');
@@ -107,20 +107,20 @@ Promise.all([
          */
 
         const schema = {
-          id: null, // 5121
-          nameEN: null, // Darksteel Ore
-          descriptionEN: null, // A decent-sized piece of rock containing the metal darksteel.
-          zones: null, // The Sea of Clouds
-          itemLevel: null, // 70
-          stars: null, // 3 (i.e. ★★★)
-          slot: null, // 6
-          isHidden: null, // true
-          timeWindowStartHour: null, // 0-23
-          timeWindowStartMinute: null, // 0-59
-          minPerception: null, // 371
-          gatheringType: null, // Mining
-          gatheringPointPosX: null, // 33
-          gatheringPointPosY: null, // 24
+          // id: null, // 5121
+          // nameEN: null, // Darksteel Ore
+          // descriptionEN: null, // A decent-sized piece of rock containing the metal darksteel.
+          // zones: null, // The Sea of Clouds
+          // itemLevel: null, // 70
+          // stars: null, // 3 (i.e. ★★★)
+          // slot: null, // 6
+          // isHidden: null, // true
+          // timeWindowStartHour: null, // 0-23
+          // timeWindowStartMinute: null, // 0-59
+          // minPerception: null, // 371
+          // gatheringType: null, // Mining
+          // gatheringPointPosX: null, // 33
+          // gatheringPointPosY: null, // 24
         };
 
         const zones = getZonesFromItemId(db, item.id);
@@ -129,14 +129,10 @@ Promise.all([
         const isHidden = getIsHiddenFromItemId(db, item.id);
         const gatheringTypeName = getGatheringTypeNameFromItemId(db, item.id, item.name);
 
-        // console.log(
-        //   `${item.id}, ${gatheringTypeName}, ${item.name}, ${firstZone}, isHidden: ${isHidden}`
-        // );
-
         return {
           ...schema,
           id: index,
-          itemId: item.id,
+          itemId: parseInt(item.id, 10),
           nameEN: item.name,
           descriptionEN: item.description,
           zone: firstZone,
@@ -150,5 +146,43 @@ Promise.all([
       });
 
     // console.log('consolidatedItems:', consolidatedItems);
+
+    // End result: merge consolidated items with what's already stored.
+    // Note that the resulting file should be committed.
+    fs.readFile('src/data/master-json/gathering-items__MASTER.json', 'utf8', (err, prevItemsData) => {
+      if (err) throw err;
+
+      const parsedPrevItemsData = JSON.parse(prevItemsData);
+
+      // Backup the old items, first
+      fs.writeFile(`src/data/master-json/gathering-items__BACKUP--${Date.now()}.json`, prevItemsData, 'utf8', err => {
+        if (err) throw err;
+
+        // Initialise a new items array
+        let newItemsData = [...parsedPrevItemsData.map(item => ({ ...item }))];
+        // For every item in consolidated items
+        consolidatedItems.forEach(item => {
+          // Find that item in the previous items data
+          const matchedItem = newItemsData.find(prevItem => prevItem.id === item.id);
+
+          // Did it exist? I.e. do we have some data for that item from a previous data dump?
+          if (matchedItem) {
+            // Merge the new item's data with that of the old item
+            const mergedItem = merge(matchedItem, item);
+            const index = newItemsData.findIndex(newItem => newItem.id === item.id);
+            newItemsData[index] = { ...mergedItem };
+          } else {
+            // Add it to the new items array
+            newItemsData = newItemsData.concat(item);
+          }
+        });
+
+        newItemsData.sort((item1, item2) => item1.id - item2.id);
+
+        fs.writeFile('src/data/master-json/gathering-items__MASTER.json', JSON.stringify(newItemsData), 'utf8', err => {
+          if (err) throw err;
+        });
+      });
+    });
   })
   .catch(console.error);
